@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({extended : false}))
 app.use(express.json());
 dbConnect();
 
-app.get('/', (req, res) => {    
+app.get('/test', (req, res) => {    
     res.status(200).send("Namaste sabhiko !")
 })
 
