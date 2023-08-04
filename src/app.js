@@ -1,31 +1,25 @@
-const express = require('express');
-const { ConnectDB } = require('./database.js');
-const bodyParser = require('body-parser');
 require('dotenv').config();
-const auth = require('./src/middleware/auth.js');
-const adminAuth = require('./src/middleware/admin.js');
-const userrouter = require("./src/routes/users.routes.js");
+const express = require('express');
+const dbConnect = require('./config/db.js');
+const bodyParser = require('body-parser');
+const authRoutes = require('./routes/authRoutes.js')
+const adminRoutes = require('./routes/adminRoutes.js')
 
 const app = express();
 app.use(bodyParser.urlencoded({extended : false}))
-ConnectDB();
-
 app.use(express.json());
-app.use(userrouter);
-app.get('/test', (req, res) => {
+dbConnect();
+
+app.get('/test', (req, res) => {    
     res.status(200).send("Namaste sabhiko !")
 })
 
+app.use('/', authRoutes)
+app.use('/admin', adminRoutes)
 
-app.listen(process.env.PORT, (error) => {
-    if(error){
-        console.log('Something went wrong', error);
-    }else{
-        console.log(`Your app is listening on port nume ${process.env.PORT}`);
-    }
-});
+module.exports = app
 
-//Example of authorization for admin also
+// // Example of authorization for admin also
 // app.get('/me', auth, async (req, res) => {
 //     const user = await User.findById(req.user._id).select('-password');
     

@@ -1,3 +1,5 @@
+// 💡NOTE: THIS AUTH METHOD CAN BE USED TO VERIFY THE USER AUTHENTICATION BEFORE SHOWING ANY AUTHENTICATED PAGES
+
 const jwt = require('jsonwebtoken');
 
 function auth(req, res, next) {
@@ -15,5 +17,3 @@ function auth(req, res, next) {
 }
 
 module.exports = auth;
-
-// we can addd this method to all the method which is access by admin like adding, deleting, update etc.
