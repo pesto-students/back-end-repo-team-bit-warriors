@@ -33,9 +33,9 @@ const register = async (req, res) => {
     const register_token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '600s' });
     
     await Admin.create({
-        username : req.body.username,
-        email : req.body.email,
-        password : req.body.password,
+        username : user.username,
+        email : user.email,
+        password : user.password,
         joinedAt: new Date()
     })
     
