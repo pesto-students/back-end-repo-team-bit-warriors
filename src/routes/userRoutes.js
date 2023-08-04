@@ -10,6 +10,9 @@ router.post('/', errorHandler(authContoller.register));
 // Find all users
 router.get('/', errorHandler(userContoller.getUsers));
 
+// Find all users
+router.get('/:id', errorHandler(userContoller.getUser));
+
 // Update users
 router.put('/:id', errorHandler(userContoller.updateUser))
 

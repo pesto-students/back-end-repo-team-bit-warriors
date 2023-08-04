@@ -22,6 +22,12 @@ const createUser = async (req, res) => {
     res.status(200).json(userData);
 };
 
+const getUser = async(req, res) => {
+    const userId = req.params.id
+    const success = await User.findById(userId)
+    res.status(200).json(success)
+}
+
 const updateUser = async(req, res) => {
     const userId = req.params.id
     const userData = req.body;
@@ -37,6 +43,7 @@ const deleteUser = async(req, res) => {
 }
 
 module.exports = {
+    getUser,
     getUsers,
     createUser,
     updateUser,
