@@ -2,7 +2,8 @@ require('dotenv').config();
 const Joi = require('joi');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
-const { Auth } = require('../../model/Auth');
+const Auth = require('../../model/Auth');
+const User = require('../../model/User');
 
 const register = async (req, res) => {
     const schema = Joi.object({
@@ -29,6 +30,13 @@ const register = async (req, res) => {
     await user.save();
 
     const register_token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '600s' });
+
+    User.create({
+        username : user.username,
+        email : user.email,
+        password : user.password,
+        joinedAt: new Date()
+    })
     
     res.header('x-auth-token', register_token).send({
         username: user.username,
@@ -53,6 +61,14 @@ const login =  async (req, res) => {
     if(!validatePassword) return res.status(400).send('Invalid email or password.');
 
     const token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '600s' });
+
+    await User.findOneAndUpdate({email: req.body.email}, {
+        $set: {
+            'lastLoggedIn' : new Date().toISOString()
+        },
+    },
+    { upsert: true, new: true } 
+    )
 
     res.header('x-auth-token', token).send(`Authentication Successful.`);
 };

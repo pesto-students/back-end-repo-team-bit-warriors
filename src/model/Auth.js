@@ -34,4 +34,4 @@ AuthenticationSchema.statics.generateAuthToken = function() {
 
 const Auth = mongoose.model("Auth", AuthenticationSchema)
 
-module.exports = { Auth }
+module.exports = Auth

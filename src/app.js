@@ -3,6 +3,7 @@ const express = require('express');
 const dbConnect = require('./config/db.js');
 const bodyParser = require('body-parser');
 const authRoutes = require('./routes/authRoutes.js')
+const userRoutes = require('./routes/userRoutes.js')
 const adminRoutes = require('./routes/adminRoutes.js')
 
 const app = express();
@@ -10,11 +11,12 @@ app.use(bodyParser.urlencoded({extended : false}))
 app.use(express.json());
 dbConnect();
 
-app.get('/test', (req, res) => {    
+app.get('/', (req, res) => {    
     res.status(200).send("Namaste sabhiko !")
 })
 
 app.use('/', authRoutes)
+app.use('/users', userRoutes)
 app.use('/admin', adminRoutes)
 
 module.exports = app
