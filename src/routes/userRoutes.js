@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const userContoller = require('../controller/UserController');
+const userContoller = require('../controller/userController');
 const authContoller = require('../controller/auth/userAuthController');
 const errorHandler = require('../middleware/errorHandlerMiddleware'); // Import the error handling middleware
 
