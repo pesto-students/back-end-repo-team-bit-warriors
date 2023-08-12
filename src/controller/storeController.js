@@ -11,11 +11,15 @@ const getStore = async(req, res) => {
 const getStores = async(req, res) => {
     if(req.query.mall_id){
         const mallId = req.query.mall_id
-        const success = await Store.find({mall: {$eq : mallId}})
-        res.status(200).json(success)
+        console.log("fetching data for mallid", mallId)
+        const storeData = await Store.find({mall: mallId})
+        console.log(storeData)
+        res.status(200).json(storeData)
     }
-    const success = await Store.find()
-    res.status(200).json(success)
+    else{
+        const storeData = await Store.find()
+        res.status(200).json(storeData)
+    }
 }
 
 
