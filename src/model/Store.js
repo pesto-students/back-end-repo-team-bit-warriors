@@ -9,11 +9,12 @@ const StoreSchema = new Schema({
         ref: 'Mall'
     },
     floor: String,
-    clockingtimes: Array,
+    clockingtimes: String,
     phone: String,
     email: String,
     website: String,
-    images: Array
+    images: Array,
+    rating: Number
 })
 
 const Store = mongoose.model('Store', StoreSchema)

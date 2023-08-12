@@ -9,14 +9,15 @@ const MallSchema = new Schema({
     pin: String,
     landmark: String,
     gmaplink: String,
-    clockingtimes: Array,
+    clockingtimes: String,
     floorsCount: Number,
     floors: Array,
     shopCount: Number,
     phone: String,
     website: String,
     email: String,
-    images: Array
+    images: Array,
+    rating:Number,
 })
 
 const Mall = mongoose.model('Mall', MallSchema)
