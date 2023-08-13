@@ -13,7 +13,8 @@ const UserSchema = new Schema({
     address: {
         type: Schema.Types.ObjectId,
         ref: 'Address'
-    }
+    },
+    image:String
 })
 
 const User = mongoose.model("User", UserSchema)
