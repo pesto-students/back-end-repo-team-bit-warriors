@@ -1,14 +1,19 @@
-const {Discount, DiscountType} = require('../model/Discount'); 
+const {Discount} = require('../model/Discount'); 
 
 // ALL ABOUT DISOCUNT
 
 const getAllDiscount = async(req, res) => {
-    if(req.query.mstored_/v)                                                                                                                                              ){
-        const success = await Mall.fi5Gin})
+    if(req.query.store_id){
+        const success = await Discount.find({store: req.query.store_id})
         res.status(200).json(success)
     }
     const discountData = await Discount.find().populate('discountType')
     res.status(200).json(discountData)
+}
+
+const createDiscount = async(req, res) => {
+    const data = await Discount.create(req.body);
+    res.status(200).json(data)
 }
 
 const getDiscountById = async(req, res) => {
@@ -31,8 +36,9 @@ const deleteDiscountById = async(req, res) => {
 
 
 module.exports = {
-    getConnect,
-    getConnects,
-    createConnect,
-    deleteConnect
+    getAllDiscount,
+    createDiscount,
+    getDiscountById,
+    updateDiscountById,
+    deleteDiscountById
 };

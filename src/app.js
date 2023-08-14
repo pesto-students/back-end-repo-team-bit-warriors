@@ -9,6 +9,8 @@ const adminRoutes = require('./routes/adminRoutes')
 const mallRoutes = require('./routes/mallRoutes')
 const storeRoutes = require('./routes/storeRoutes')
 const connectRoutes = require('./routes/connectRoutes')
+const discountRoutes = require('./routes/discountRoutes')
+const discountTypeRoutes = require('./routes/discountTypeRoutes')
 
 const app = express();
 
@@ -28,5 +30,7 @@ app.use('/admin', adminRoutes)
 app.use('/malls', mallRoutes)
 app.use('/stores', storeRoutes)
 app.use('/contact', connectRoutes)
+app.use('/discount', discountRoutes)
+app.use('/discount-type', discountTypeRoutes)
 
 module.exports = app
