@@ -1,0 +1,1180 @@
+[{
+  "_id": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "name": "RCity",
+  "area": "Lal Bahadur Shastri Marg, Ghatkopar west",
+  "state": "Maharastra",
+  "city": "Mumbai",
+  "pin": 400086,
+  "gmaplink": "19.100482847276734, 72.91676360012075",
+  "clockingtimes": "11:30am-9pm",
+  "floorsCount": 4,
+  "floors": [
+    "G",
+    1,
+    2,
+    3,
+    3
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "website": "http://rcity.co.in/",
+  "email": "contact@viviana.inv",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "name": "Phoenix Market City",
+  "area": "Senapati Bapat Marg, Vidhyadhar Nagar, Kurla",
+  "state": "Maharastra",
+  "city": "Mumbai",
+  "pin": 400070,
+  "gmaplink": "https://goo.gl/maps/GgCxfsfLM9HZWtMg6",
+  "clockingtimes": "11:00am-11:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 300,
+  "phone": "022 44001000",
+  "website": "https://www.phoenixmarketcity.com/mumbai",
+  "email": "marketing.mumbai@phoenixmills.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f0"
+  },
+  "name": "RCity",
+  "area": "Lal Bahadur Shastri Marg, Ghatkopar west",
+  "state": "Maharastra",
+  "city": "Mumbai",
+  "pin": 400086,
+  "gmaplink": "19.100482847276734, 72.91676360012075",
+  "clockingtimes": "11:30am-9pm",
+  "floorsCount": 4,
+  "floors": [
+    "G",
+    1,
+    2,
+    3,
+    3
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "website": "http://rcity.co.in/",
+  "email": "contact@viviana.inv",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f1"
+  },
+  "name": "Phoenix Market City",
+  "area": "Senapati Bapat Marg, Vidhyadhar Nagar, Kurla",
+  "state": "Maharastra",
+  "city": "Mumbai",
+  "pin": 400070,
+  "gmaplink": "https://goo.gl/maps/GgCxfsfLM9HZWtMg6",
+  "clockingtimes": "11:00am-11:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 300,
+  "phone": "022 44001000",
+  "website": "https://www.phoenixmarketcity.com/mumbai",
+  "email": "marketing.mumbai@phoenixmills.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "name": "ROdean",
+  "area": "Senapati Bapat Marg, Vidhyadhar Nagar, Kurla",
+  "state": "Maharastra",
+  "city": "Mumbai",
+  "pin": 400070,
+  "gmaplink": "https://goo.gl/maps/GgCxfsfLM9HZWtMg6",
+  "clockingtimes": "11:00am-11:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 300,
+  "phone": "022 44001000",
+  "website": "https://www.phoenixmarketcity.com/mumbai",
+  "email": "marketing.mumbai@phoenixmills.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f3"
+  },
+  "name": "Inorbit Mall Vashi",
+  "area": "Sector 10,Vashi",
+  "state": "Maharastra",
+  "city": "Navi Mumbai",
+  "pin": 400703,
+  "gmaplink": "https://goo.gl/maps/hv9RgBWhKojf81hb9",
+  "clockingtimes": "10:00am-09:30PM",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    3,
+    0
+  ],
+  "shopCount": 250,
+  "phone": "+91 22 4050 5000",
+  "website": "https://www.inorbit.in/vashi/",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f4"
+  },
+  "name": "High Street Phoenix",
+  "area": "Senapati Bapat Marg, Lower Parel",
+  "state": "Maharastra",
+  "city": "Mumbai",
+  "pin": 400013,
+  "gmaplink": "https://goo.gl/maps/PJnyMrFe4ZbgCV8m6",
+  "clockingtimes": "11:00 AM - 10PM",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 250,
+  "phone": "0224333 9999",
+  "website": "https://phoenixpalladium.com/",
+  "email": "marketing.palladium@phoenixmills.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f5"
+  },
+  "name": "Viviana Mall",
+  "area": "Brhmand, Thane",
+  "state": "Maharastra",
+  "city": "Thane",
+  "pin": 400080,
+  "gmaplink": "https://goo.gl/maps/hGD5bFy66ScHBemPA",
+  "clockingtimes": "11:00 AM - 10PM",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 300,
+  "phone": "022 6170 1066",
+  "website": "https://www.vivianamalls.com",
+  "email": "events@lakeshorein.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f6"
+  },
+  "name": "Select Citywalk",
+  "area": "A-3 District Centre Saket",
+  "state": "Delhi",
+  "city": "Delhi",
+  "pin": 110017,
+  "gmaplink": "https://goo.gl/maps/vypoahe4ihpKhfmR8",
+  "clockingtimes": "10:00am – 11pm",
+  "floorsCount": 4,
+  "floors": [
+    "LG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 200,
+  "phone": "+91 11 4211 4211",
+  "website": "https://www.selectcitywalk.com/",
+  "email": "contact@selectcitywalk.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f7"
+  },
+  "name": "DLF Cyber Hub",
+  "area": "DLF Cyber City, Phase 2",
+  "state": "Haryana",
+  "city": "Gurgaon",
+  "pin": 122002,
+  "gmaplink": "https://goo.gl/maps/gApFNuAcoSyrnQEp8",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "9311813539"
+  },
+  "website": "https://www.dlfcyberhub.com/",
+  "email": "dlfcyberhub@dlf.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f8"
+  },
+  "name": "DLF Promenade",
+  "area": "Nelson Mandela Road, Vasant Kunj Malls",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "pin": 110070,
+  "gmaplink": "https://goo.gl/maps/HMx5RcDdQAXDJpFU7",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 2,
+  "floors": [
+    "G",
+    1,
+    0,
+    0,
+    0
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "8595847573"
+  },
+  "website": "https://www.dlfpromenade.com/",
+  "email": "dlfpromenade@dlf.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492f9"
+  },
+  "name": "Ambience Malls",
+  "area": "2, Nelson Mandela Marg, Ambience Island, ",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "pin": 110070,
+  "gmaplink": "https://goo.gl/maps/151ygwp4BXiJR9ad8",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 300,
+  "phone": 1140870066,
+  "website": "https://www.ambiencemalls.com/vk/index.php?md=Content&sd=HomePage",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "name": "Pacific Mall",
+  "area": "Najafgarh Road, Tagore Garden",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "pin": 110018,
+  "gmaplink": "https://goo.gl/maps/bdGV8Z8FbDLmo75J9",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 5,
+  "floors": [
+    "LG",
+    "G",
+    1,
+    2,
+    3
+  ],
+  "shopCount": 300,
+  "phone": {
+    "$numberLong": "9953399833"
+  },
+  "website": "https://www.pacificmalls.in/",
+  "email": "care.ptg@pacificindia.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "name": "VR Chennai",
+  "area": "100 Feet Road, Alandur, Chennai, Tamil Nadu 600016",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pin": 600016,
+  "gmaplink": "https://goo.gl/maps/Bd2wPqBdEoPArmhF8",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 5,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    3
+  ],
+  "shopCount": 310,
+  "phone": "91 44 66705555",
+  "website": "https://vrchennai.com/",
+  "email": "vrc_helpdesk@vrpropservices.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "name": "Express Avenue Mall",
+  "area": "22, Cathedral Road, Egmore, Chennai, Tamil Nadu 600008",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pin": 600008,
+  "gmaplink": "https://goo.gl/maps/cf8T9E4LUoYkBuGf6",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 250,
+  "phone": "044-4995-4646",
+  "website": "https://expressavenue.in/",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "name": "Phoenix MarketCity Chennai",
+  "area": "100 Feet Road, Velachery, Chennai, Tamil Nadu 600042",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pin": 600042,
+  "gmaplink": "https://goo.gl/maps/HHmEcgLSJQCUdy1f8",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 5,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    3
+  ],
+  "shopCount": 325,
+  "phone": {
+    "$numberLong": "4461343008"
+  },
+  "website": "https://www.phoenixmarketcity.com/chennai",
+  "email": "secretarial@phoenixmills.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492fe"
+  },
+  "name": "Forum Vijaya Mall",
+  "area": "36, Nehru Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pin": 600026,
+  "gmaplink": "https://goo.gl/maps/1oTJyinaaGpvXRfq8",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "phone": "044 4904 9000",
+  "website": "NA",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d492ff"
+  },
+  "name": "The Grand Mall",
+  "area": "Anna Salai, Teynampet, Chennai, Tamil Nadu 600018",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pin": 600018,
+  "gmaplink": "https://goo.gl/maps/7JUmvH3LJCvp8nQg8",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 200,
+  "phone": "NA",
+  "website": "NA",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "name": "Inorbit Mall",
+  "area": "Punjagutta, Hyderabad, Telangana 500082",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "pin": 500082,
+  "gmaplink": "https://goo.gl/maps/oSxdXMZ3riCAQqNw8",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 150,
+  "phone": "040-44880000",
+  "website": "https://www.inorbit.in/hyderabad/",
+  "email": "info.cyberabad@inorbit.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "name": "GVK One Mall",
+  "area": "Hitech City, Hyderabad, Telangana 500081",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "pin": 500081,
+  "gmaplink": "https://goo.gl/maps/1aQjm3RRkYQ1jBDM8",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 200,
+  "phone": {
+    "$numberLong": "4042767600"
+  },
+  "website": "https://gvkone.com/",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "name": "The Forum Sujana Mall",
+  "area": "Begumpet, Hyderabad, Telangana 500016",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "pin": 500016,
+  "gmaplink": "https://goo.gl/maps/5P2CeQinuuPXQSxcA",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 175,
+  "phone": {
+    "$numberLong": "7032703193"
+  },
+  "website": "http://www.forummalls.in/forum-sujana/",
+  "email": "infodesk@theforumsujanamall.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "name": "AMB Cinema Mall",
+  "area": "Road No 45, Jubilee Hills, Hyderabad, Telangana 500033",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "pin": 500033,
+  "gmaplink": "https://goo.gl/maps/bvLquUNwUz2Lm3XP6",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 150,
+  "phone": "NA",
+  "website": "http://ambcinemas.in/",
+  "email": "info@ambcinemas.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "name": "Amanora Mall",
+  "area": "Plot No. 1, Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",
+  "state": "Maharastra",
+  "city": "Pune",
+  "pin": 411028,
+  "gmaplink": "https://goo.gl/maps/1z3N2dQ41G7xUAPMA",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 200,
+  "phone": 2025301000,
+  "website": "https://www.amanoramall.com/",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "name": "Seasons Mall",
+  "area": "118, Senapati Bapat Road, Pune, Maharashtra 411016",
+  "state": "Maharastra",
+  "city": "Pune",
+  "pin": 411016,
+  "gmaplink": "https://goo.gl/maps/zkyfoEfm4uySCQvQ8",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "phone": "077559 80311",
+  "website": "https://seasonsmall.in/",
+  "email": "info@seasonsmall.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "name": "Inorbit Mall",
+  "area": "10, FC Road, Pune, Maharashtra 411001",
+  "state": "Maharastra",
+  "city": "Pune",
+  "pin": 411001,
+  "gmaplink": "https://goo.gl/maps/KRde3iLHTJL9XhNb9",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "phone": {
+    "$numberLong": "8800900009"
+  },
+  "website": "https://www.pvrcinemas.com/",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "name": "Phoenix Marketcity",
+  "area": "Brigade Road, Near HAL 2nd Stage, Bangalore, Karnataka 560001",
+  "state": "Karnataka",
+  "city": "Banglore",
+  "pin": 560001,
+  "gmaplink": "https://goo.gl/maps/y3gVivbiGWbU3v7h9",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 5,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    3
+  ],
+  "shopCount": 200,
+  "phone": {
+    "$numberLong": "8049626111"
+  },
+  "website": "https://www.phoenixmarketcity.com/bangalore",
+  "email": "infopmcb@phoenixmills.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "name": "The Forum Vijaya Mall",
+  "area": "Whitefield Road, Marathahalli, Bangalore, Karnataka 560037",
+  "state": "Karnataka",
+  "city": "Banglore",
+  "pin": 560037,
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 150,
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "name": "Mantri Square Mall",
+  "area": "4th Phase, Mahadevapura, Bangalore, Karnataka 560048",
+  "state": "Karnataka",
+  "city": "Banglore",
+  "pin": 560048,
+  "gmaplink": "https://goo.gl/maps/WjD9aT9SNMZdXtkYA",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 100,
+  "phone": {
+    "$numberLong": "8030160000"
+  },
+  "website": "https://www.mantrisquare.com/",
+  "email": "marcom@mantrisquare.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d4930a"
+  },
+  "name": "Garuda Mall",
+  "area": "8th Main Road, Koramangala, Bangalore, Karnataka 560034",
+  "state": "Karnataka",
+  "city": "Banglore",
+  "pin": 560034,
+  "gmaplink": "https://goo.gl/maps/t3ceRhtLwbUyzRke9",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 100,
+  "phone": {
+    "$numberLong": "8050040101"
+  },
+  "website": "https://garudamall.in/",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d4930b"
+  },
+  "name": "Inorbit Mall",
+  "area": "3rd Phase, Rajajinagar, Bangalore, Karnataka 560084",
+  "state": "Karnataka",
+  "city": "Banglore",
+  "pin": 560084,
+  "gmaplink": "https://goo.gl/maps/wyV4x3dyQJVJRmt58",
+  "clockingtimes": "10:00am-10:00pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 100,
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d4930c"
+  },
+  "name": "South City Mall",
+  "area": "105, AJC Bose Road, Kolkata, West Bengal 700020",
+  "state": "West Bengal",
+  "city": "Kolkata",
+  "pin": 700020,
+  "gmaplink": "https://goo.gl/maps/X78q3fNfdB6LosYE9",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "3340072181"
+  },
+  "website": "https://www.southcitymall.in/",
+  "email": "NA",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d4930d"
+  },
+  "name": "Acropolis Mall",
+  "area": "40, Gariahat Road, Kolkata, West Bengal 700029",
+  "state": "West Bengal",
+  "city": "Kolkata",
+  "pin": 700029,
+  "gmaplink": "https://goo.gl/maps/yKpxutAQCqTrfCSa7",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "phone": {
+    "$numberLong": "3340676068"
+  },
+  "website": "http://www.acropolismall.in/",
+  "email": "info@acropolismall.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d4930e"
+  },
+  "name": "City Centre Mall, Kolkata",
+  "area": "11, EM Bypass, Kolkata, West Bengal 700091",
+  "state": "West Bengal",
+  "city": "Kolkata",
+  "pin": 700091,
+  "gmaplink": "https://goo.gl/maps/mMortf72eb77HPjcA",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "3340063195"
+  },
+  "website": "http://www.citycentremalls.in/",
+  "email": "info.citycentremalls.in/",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d4930f"
+  },
+  "name": "Quest Mall",
+  "area": "6, EM Bypass, Kolkata, West Bengal 700091",
+  "state": "West Bengal",
+  "city": "Kolkata",
+  "pin": 700091,
+  "gmaplink": "https://goo.gl/maps/fg38vwsXjYbH9f1B9",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "phone": {
+    "$numberLong": "3322877777"
+  },
+  "website": "https://questmall.in/",
+  "email": "quest.helpdesk@rpsg.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "name": "Spencer's Plaza",
+  "area": "1, Park Street, Kolkata, West Bengal 700016",
+  "state": "West Bengal",
+  "city": "Kolkata",
+  "pin": 700016,
+  "gmaplink": "https://goo.gl/maps/HAPahfKjAmaek9yEA",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 200,
+  "phone": {
+    "$numberLong": "3344025220"
+  },
+  "website": "http://www.spencersretail.com/stores/spencers-hyper-store-axis-mall-kolkata",
+  "email": "customercare@spencers.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "name": "Ahmedabad One Mall",
+  "area": "Plot No. 500, Sardar Patel Ring Road, Ahmedabad, Gujarat 380054",
+  "state": "Gujrat",
+  "city": "Ahmedabad",
+  "pin": 380054,
+  "gmaplink": "https://goo.gl/maps/5kSjCurMXi2xJnK77",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "website": "https://www.nexusmalls.com/",
+  "email": "crm.manager@nexusmalls.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "name": "Inorbit Mall Vadodara",
+  "area": "Plot No. 28, Ring Road, Gotri, Vadodara, Gujarat 390010",
+  "state": "Gujrat",
+  "city": "Vadodara",
+  "pin": 390010,
+  "gmaplink": "https://goo.gl/maps/5kSjCurMXi2xJnK77",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 200,
+  "phone": {
+    "$numberLong": "2652303500"
+  },
+  "website": "https://www.inorbit.in/vadodara/",
+  "email": "info.vadodara@inorbit.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "name": "VR Surat",
+  "area": "Plot No. 315, Udhna-Mandvi Road, Surat, Gujarat 395007",
+  "state": "Gujrat",
+  "city": "Surat",
+  "pin": 395007,
+  "gmaplink": "https://goo.gl/maps/M7iEdZozqxu7D9Gs6",
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 4,
+  "floors": [
+    "UG",
+    "G",
+    1,
+    2,
+    0
+  ],
+  "shopCount": 150,
+  "phone": {
+    "$numberLong": "2616795001"
+  },
+  "website": "https://vrsurat.com/Home/",
+  "email": "concierge_vrs@vrpropservices.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "name": "City Centre Mall, Ahmedabad",
+  "area": "Shop No. 1, 2nd Floor, Sector 27, Gandhinagar, Ahmedabad, Gujarat 380054",
+  "state": "Gujrat",
+  "city": "Ahmedabad",
+  "pin": 380054,
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 100,
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "name": "Gujarat Mall",
+  "area": "Plot No. 151, Sardar Patel Ring Road, Ahmedabad, Gujarat 380054",
+  "state": "Gujrat",
+  "city": "Ahmedabad",
+  "pin": 380054,
+  "clockingtimes": "10:00am –11pm",
+  "floorsCount": 3,
+  "floors": [
+    "G",
+    1,
+    2,
+    0,
+    0
+  ],
+  "shopCount": 120,
+  "images": [
+    "https://source.unsplash.com/1600x900/?shopping-malls"
+  ],
+  "rating": 3.3,
+  "__v": 0
+}]

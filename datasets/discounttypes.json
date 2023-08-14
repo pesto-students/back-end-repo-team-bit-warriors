@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105cf"
+  },
+  "name": "BOGO",
+  "description": "Buy one, get one free discounts",
+  "type": 1
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d0"
+  },
+  "name": "EarlyBird",
+  "description": "Early payment discounts",
+  "type": 2
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d1"
+  },
+  "name": "Overstock discount",
+  "description": "Overstock sales discounts",
+  "type": 3
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d2"
+  },
+  "name": "Free delivery discount",
+  "description": "Free delivery discount",
+  "type": 4
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d3"
+  },
+  "name": "Referral discount",
+  "description": "Referral discounts",
+  "type": 5
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d4"
+  },
+  "name": "FreeDelivery",
+  "description": "free shipping discounts",
+  "type": 6
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d5"
+  },
+  "name": "New user discount",
+  "description": "New user discount",
+  "type": 7
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d6"
+  },
+  "name": "Wholesale",
+  "description": "Bulk or wholesale discounts",
+  "type": 8
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d7"
+  },
+  "name": "Wholesale",
+  "description": "Bulk or wholesale discounts",
+  "type": 9
+},
+{
+  "_id": {
+    "$oid": "64d992a915e5909e16d105d8"
+  },
+  "name": "Trade-in credits",
+  "description": "Trade-in credits when they release new versions",
+  "type": 10
+}]
