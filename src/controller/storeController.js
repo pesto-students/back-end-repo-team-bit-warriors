@@ -2,7 +2,7 @@ const Store = require('../model/Store')
 
 const getStore = async(req, res) => {
     storeId = req.params.id
-    const storeData = await Store.findById(storeId)
+    const storeData = await Store.findById(storeId).populate("mall")
     if (!storeData) {
         res.status(404).json({message: "Store not found"})
     }
@@ -12,7 +12,7 @@ const getStores = async(req, res) => {
     if(req.query.mall_id){
         const mallId = req.query.mall_id
         console.log("fetching data for mallid", mallId)
-        const storeData = await Store.find({mall: mallId})
+        const storeData = await Store.find({mall: mallId}).populate("mall")
         console.log(storeData)
         res.status(200).json(storeData)
     }
