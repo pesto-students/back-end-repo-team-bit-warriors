@@ -6,7 +6,10 @@ const getStore = async(req, res) => {
     if (!storeData) {
         res.status(404).json({message: "Store not found"})
     }
-    res.status(200).json(storeData)
+    else{
+
+        res.status(200).json(storeData)
+    }
 }
 const getStores = async(req, res) => {
     if(req.query.mall_id){

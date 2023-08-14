@@ -1,0 +1,6925 @@
+[{
+  "_id": {
+    "$oid": "64d995ffdac509295d35ab66"
+  },
+  "name": "End of season sale",
+  "store": {
+    "$oid": "64d8fcb90ffbc2f275d49318"
+  },
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": "20",
+  "discountType": {
+    "$oid": "64d992a915e5909e16d105d1"
+  },
+  "image": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1070b"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f5"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1070c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f5"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1070d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f5"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1070e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f6"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1070f"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f6"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10710"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f6"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10711"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f7"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10712"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f7"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10713"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f7"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10714"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f8"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10715"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f8"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10716"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f8"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10717"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f9"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10718"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f9"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10719"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105f9"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1071a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fa"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1071b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fa"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1071c"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fa"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1071d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fb"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1071e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fb"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1071f"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fb"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10720"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fc"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10721"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fc"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10722"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fc"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10723"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fd"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10724"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fd"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10725"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fd"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10726"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fe"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10727"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fe"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10728"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105fe"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10729"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105ff"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1072a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105ff"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1072b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d105ff"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1072c"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10600"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1072d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10600"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1072e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10600"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1072f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10601"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10730"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10601"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10731"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10601"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10732"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10602"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10733"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10602"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10734"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10602"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10735"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10603"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10736"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10603"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10737"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10603"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10738"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10604"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10739"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10604"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1073a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10604"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1073b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10605"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1073c"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10605"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1073d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10605"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1073e"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10606"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1073f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10606"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10740"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10606"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10741"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10607"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10742"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10607"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10743"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10607"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10744"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10608"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10745"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10608"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10746"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10608"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10747"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10609"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10748"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10609"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10749"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10609"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1074a"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1074b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1074c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1074d"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1074e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1074f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10750"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10751"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10752"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10753"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10754"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10755"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10756"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10757"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10758"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10759"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1075a"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1075b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1060f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1075c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10610"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1075d"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10610"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1075e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10610"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1075f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10611"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10760"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10611"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10761"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10611"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10762"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10612"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10763"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10612"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10764"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10612"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10765"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10613"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10766"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10613"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10767"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10613"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10768"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10614"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10769"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10614"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1076a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10614"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1076b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10615"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1076c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10615"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1076d"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10615"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1076e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10616"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1076f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10616"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10770"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10616"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10771"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10617"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10772"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10617"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10773"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10617"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10774"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10618"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10775"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10618"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10776"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10618"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10777"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10619"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10778"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10619"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10779"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10619"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1077a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1077b"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1077c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1077d"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1077e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1077f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10780"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10781"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10782"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10783"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10784"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10785"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10786"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10787"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10788"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10789"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1078a"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1078b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1061f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1078c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10620"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1078d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10620"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1078e"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10620"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1078f"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10621"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10790"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10621"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10791"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10621"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10792"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10622"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10793"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10622"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10794"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10622"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10795"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10623"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10796"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10623"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10797"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10623"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10798"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10624"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10799"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10624"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1079a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10624"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1079b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10625"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1079c"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10625"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1079d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10625"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1079e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10626"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1079f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10626"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a0"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10626"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a1"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10627"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a2"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10627"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a3"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10627"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a4"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10628"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a5"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10628"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a6"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10628"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a7"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10629"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a8"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10629"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107a9"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10629"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107aa"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ab"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ac"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ad"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ae"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107af"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b0"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b1"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b2"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b3"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b4"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b5"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b6"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b7"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b8"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107b9"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ba"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107bb"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1062f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107bc"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10630"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107bd"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10630"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107be"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10630"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107bf"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10631"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c0"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10631"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c1"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10631"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c2"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10632"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c3"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10632"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c4"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10632"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c5"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10633"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c6"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10633"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c7"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10633"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c8"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10634"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107c9"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10634"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ca"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10634"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107cb"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10635"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107cc"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10635"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107cd"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10635"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ce"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10636"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107cf"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10636"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d0"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10636"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d1"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10637"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d2"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10637"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d3"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10637"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d4"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10638"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d5"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10638"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d6"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10638"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d7"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10639"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d8"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10639"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107d9"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10639"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107da"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107db"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107dc"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107dd"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107de"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107df"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e0"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e1"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e2"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e3"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e4"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e5"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e6"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e7"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e8"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107e9"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ea"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107eb"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1063f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ec"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10640"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ed"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10640"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ee"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10640"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ef"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10641"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f0"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10641"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f1"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10641"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f2"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10642"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f3"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10642"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f4"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10642"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f5"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10643"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f6"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10643"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f7"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10643"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f8"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10644"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107f9"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10644"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107fa"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10644"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107fb"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10645"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107fc"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10645"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107fd"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10645"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107fe"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10646"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d107ff"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10646"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10800"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10646"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10801"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10647"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10802"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10647"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10803"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10647"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10804"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10648"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10805"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10648"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10806"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10648"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10807"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10649"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10808"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10649"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10809"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10649"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1080a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1080b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1080c"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064a"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1080d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1080e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1080f"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064b"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10810"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10811"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10812"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064c"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10813"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10814"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10815"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064d"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10816"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10817"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10818"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064e"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10819"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1081a"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1081b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d1064f"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1081c"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10650"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1081d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10650"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1081e"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10650"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1081f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10651"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10820"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10651"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10821"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10651"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10822"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10652"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10823"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10652"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10824"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10652"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10825"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10653"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10826"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10653"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10827"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10653"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10828"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10654"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10829"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10654"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1082a"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10654"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1082b"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10655"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1082c"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10655"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1082d"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10655"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1082e"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10656"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d1082f"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10656"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10830"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10656"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10831"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10657"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10832"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10657"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10833"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10657"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10834"
+  },
+  "name": "Refer-a-Friend Discount",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 30,
+  "discountType": 9,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10658"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10835"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 20,
+  "discountType": 4,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10658"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+},
+{
+  "_id": {
+    "$oid": "64da7f1415e5909e16d10836"
+  },
+  "name": "Buy1 Get1",
+  "startDate": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "createdDate": {
+    "$date": "2023-08-14T02:33:14.786Z"
+  },
+  "active": true,
+  "discountPercentage": 50,
+  "discountType": 2,
+  "__v": 0,
+  "store": {
+    "$oid": "64da426d15e5909e16d10658"
+  },
+  "images": "https://source.unsplash.com/1600x900/?coupon"
+}]

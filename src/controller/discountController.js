@@ -6,9 +6,11 @@ const getAllDiscount = async(req, res) => {
     if(req.query.store_id){
         const success = await Discount.find({store: req.query.store_id})
         res.status(200).json(success)
+    }else{
+        
+        const discountData = await Discount.find().populate('discountType')
+        res.status(200).json(discountData)
     }
-    const discountData = await Discount.find().populate('discountType')
-    res.status(200).json(discountData)
 }
 
 const createDiscount = async(req, res) => {

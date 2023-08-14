@@ -1,0 +1,5689 @@
+[
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105f5"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105f6"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105f7"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105f8"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105f9"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105fa"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105fb"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105fc"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105fd"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105fe"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d105ff"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10600"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10601"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10602"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10603"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10604"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10605"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10606"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10607"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10608"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10609"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1060a"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1060b"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1060c"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1060d"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1060e"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1060f"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10610"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10611"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10612"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10613"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10614"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10615"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10616"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10617"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10618"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10619"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1061a"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1061b"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1061c"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1061d"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1061e"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1061f"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10620"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ee"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10621"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10622"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10623"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10624"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10625"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10626"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10627"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ed0a0ffbc2f275d492ef"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10628"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10629"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1062a"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1062b"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1062c"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1062d"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1062e"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1062f"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f3"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10630"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10631"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f3"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10632"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10633"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f2"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10634"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f3"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10635"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f3"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10636"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f3"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10637"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f4"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10638"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f5"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10639"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f6"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1063a"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f7"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1063b"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f8"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1063c"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f9"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1063d"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f4"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1063e"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f5"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1063f"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f6"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10640"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10641"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f8"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10642"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f9"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10643"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f4"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10644"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f5"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10645"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f6"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10646"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f7"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10647"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f8"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10648"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f9"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10649"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f4"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1064a"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f5"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1064b"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f6"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1064c"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492f7"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1064d"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1064e"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1064f"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10650"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10651"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10652"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10653"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10654"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10655"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10656"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10657"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10658"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10659"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1065a"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1065b"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1065c"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1065d"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1065e"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1065f"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10660"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10661"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10662"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fa"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10663"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10664"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10665"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10666"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10667"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10668"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10669"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1066a"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1066b"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fb"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1066c"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1066d"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1066e"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1066f"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10670"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10671"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10672"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10673"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10674"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10675"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10676"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10677"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10678"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fc"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10679"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1067a"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1067b"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1067c"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1067d"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1067e"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1067f"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10680"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10681"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10682"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10683"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10684"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10685"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10686"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10687"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10688"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10689"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1068a"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1068b"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d492fd"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1068c"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1068d"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1068e"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1068f"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10690"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10691"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10692"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10693"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10694"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10695"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10696"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10697"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10698"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10699"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1069a"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1069b"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1069c"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1069d"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1069e"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d1069f"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a0"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a1"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a2"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a3"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a4"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a5"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a6"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a7"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a8"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106a9"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106aa"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ab"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ac"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ad"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ae"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106af"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b0"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b1"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b2"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b3"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b4"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b5"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b6"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b7"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b8"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106b9"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ba"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106bb"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106bc"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106bd"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106be"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106bf"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c0"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c1"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c2"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c3"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c4"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c5"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c6"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c7"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c8"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106c9"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ca"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106cb"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106cc"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49300"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106cd"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49301"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ce"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49302"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106cf"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49303"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d0"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49304"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d1"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49305"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d2"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49306"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d3"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49307"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d4"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49308"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d5"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49309"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d6"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d4930a"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d7"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d4930a"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d8"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d4930a"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106d9"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d4930a"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106da"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106db"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d7765e307f96ac06f884d7"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106dc"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106dd"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106de"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106df"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e0"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e1"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e2"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e3"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e4"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e5"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e6"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e7"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e8"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106e9"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ea"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106eb"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ec"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ed"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ee"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ef"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f0"
+  },
+  "name": "Maplo",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": "G",
+  "clockingtimes": "11am-9pm",
+  "phone": {
+    "$numberLong": "8989898989"
+  },
+  "email": "contact.maplo.in",
+  "website": "www.maplo.in",
+  "images": [
+    "https://source.unsplash.com/1600x900/?electronics"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f1"
+  },
+  "name": "Nike",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": "G",
+  "clockingtimes": "10am-9pm",
+  "phone": 1234567890,
+  "email": "contact.nike@example.com",
+  "website": "www.nike.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?nike"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f2"
+  },
+  "name": "Adidas",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 1,
+  "clockingtimes": "9am-8pm",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "email": "contact.adidas@example.com",
+  "website": "www.adidas.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?adidas,shoes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f3"
+  },
+  "name": "Zara",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.zara@example.com",
+  "website": "www.zara.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?ZARA,fashion-brand"
+  ],
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f4"
+  },
+  "name": "H&M",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-10pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.hm@example.com",
+  "website": "www.hm.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?H&M,fashion-brand,H&M-clothes"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f5"
+  },
+  "name": "Starbucks",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 1,
+  "clockingtimes": "7am-9pm",
+  "phone": 1235557890,
+  "email": "contact.starbucks@example.com",
+  "website": "www.starbucks.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?starbucks,starbucks-coffee"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f6"
+  },
+  "name": "McDonald's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": 1,
+  "clockingtimes": "6am-11pm",
+  "phone": {
+    "$numberLong": "9875553210"
+  },
+  "email": "contact.mcdonalds@example.com",
+  "website": "www.mcdonalds.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?mcdonalds"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f7"
+  },
+  "name": "Apple",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.apple@example.com",
+  "website": "www.apple.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?apple-ios"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f8"
+  },
+  "name": "Samsung",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-8pm",
+  "phone": {
+    "$numberLong": "5559876543"
+  },
+  "email": "contact.samsung@example.com",
+  "website": "www.samsung.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?samsung,samsung-electronics,electronics"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106f9"
+  },
+  "name": "Victoria's Secret",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.victoriassecret@example.com",
+  "website": "www.victoriassecret.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106fa"
+  },
+  "name": "Forever 21",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.forever21@example.com",
+  "website": "www.forever21.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,forever21,trending-clothes"
+  ],
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106fb"
+  },
+  "name": "Gap",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.gap@example.com",
+  "website": "www.gap.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,gap,trending-clothes"
+  ],
+  "rating": 4.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106fc"
+  },
+  "name": "Sephora",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5555678901"
+  },
+  "email": "contact.sephora@example.com",
+  "website": "www.sephora.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,sephora,trending-clothes"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106fd"
+  },
+  "name": "Puma",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5556789012"
+  },
+  "email": "contact.puma@example.com",
+  "website": "www.puma.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand,puma,puma-shoes,puma-clothes"
+  ],
+  "rating": 4.6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106fe"
+  },
+  "name": "Baskin Robbins",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5557890123"
+  },
+  "email": "contact.baskin@example.com",
+  "website": "www.baskinrobbins.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?baskin-robbins,icecream"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d106ff"
+  },
+  "name": "Subway",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5558901234"
+  },
+  "email": "contact.subway@example.com",
+  "website": "www.subway.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sandwitch"
+  ],
+  "rating": 4.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10700"
+  },
+  "name": "Levi's",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49310"
+  },
+  "floor": 1,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5559012345"
+  },
+  "email": "contact.levis@example.com",
+  "website": "www.levis.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-brand"
+  ],
+  "rating": 4.3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10701"
+  },
+  "name": "Sony",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49311"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5550123456"
+  },
+  "email": "contact.sony@example.com",
+  "website": "www.sony.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?sony,sony-electronics"
+  ],
+  "rating": 4.1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10702"
+  },
+  "name": "L'Occitane",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49312"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5551234567"
+  },
+  "email": "contact.loccitane@example.com",
+  "website": "www.loccitane.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?L'Occitane,perfumes"
+  ],
+  "rating": 4.9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10703"
+  },
+  "name": "Timberland",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49313"
+  },
+  "floor": 2,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5552345678"
+  },
+  "email": "contact.timberland@example.com",
+  "website": "www.timberland.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?Timberland,Timberland-boots"
+  ],
+  "rating": 4.7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10704"
+  },
+  "name": "Cinnabon",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49314"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5553456789"
+  },
+  "email": "contact.cinnabon@example.com",
+  "website": "www.cinnabon.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?cinnabon,cinnabon-bakery"
+  ],
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da426d15e5909e16d10705"
+  },
+  "name": "The Body Shop",
+  "mall": {
+    "$oid": "64d8ee3e0ffbc2f275d49315"
+  },
+  "floor": 3,
+  "clockingtimes": "10am-9pm",
+  "phone": {
+    "$numberLong": "5554567890"
+  },
+  "email": "contact.bodyshop@example.com",
+  "website": "www.thebodyshop.com",
+  "images": [
+    "https://source.unsplash.com/1600x900/?fashion-makeup,fragrance"
+  ],
+  "rating": 4.6,
+  "__v": 0
+}
+]

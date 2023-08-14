@@ -23,7 +23,7 @@ const DiscountSchema = new Schema({
         type: Schema.Types.ObjectId,
         ref: 'DiscountType'
     },
-    image: Array
+    images: Array
 })
 
 const DiscountTypeSchema = new Schema({

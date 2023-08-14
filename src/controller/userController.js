@@ -12,9 +12,10 @@ const getUsers = async (req, res) => {
             }
         };
     }
-
-    const userData = await User.find(query);
-    res.status(200).json(userData);
+    else{
+        const userData = await User.find(query);
+        res.status(200).json(userData);
+    }
 }
 
 const createUser = async (req, res) => {

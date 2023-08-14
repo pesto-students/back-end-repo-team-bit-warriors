@@ -6,8 +6,11 @@ const getMalls = async(req, res) => {
         const success = await Mall.find({pin: req.query.pin})
         res.status(200).json(success)
     }
-    const success = await Mall.find()
-    res.status(200).json(success)
+    else{
+
+        const success = await Mall.find()
+        res.status(200).json(success)
+    }
 }
 
 const getMall = async(req, res) => {
