@@ -11,6 +11,7 @@ const storeRoutes = require('./routes/storeRoutes')
 const connectRoutes = require('./routes/connectRoutes')
 const discountRoutes = require('./routes/discountRoutes')
 const discountTypeRoutes = require('./routes/discountTypeRoutes')
+const cookieParser = require('cookie-parser');
 
 const app = express();
 
@@ -18,6 +19,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.urlencoded({extended : false}))
 app.use(express.json());
+app.use(cookieParser())
 dbConnect();
 
 app.get('/test', (req, res) => {    
