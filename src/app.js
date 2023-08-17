@@ -35,6 +35,6 @@ app.use('/stores', storeRoutes)
 app.use('/contact', connectRoutes)
 app.use('/discount', discountRoutes)
 app.use('/discount-type', discountTypeRoutes)
-app.user('/favourit', favouritRoutes)
+app.use('/favourit', favouritRoutes)
 
 module.exports = app
