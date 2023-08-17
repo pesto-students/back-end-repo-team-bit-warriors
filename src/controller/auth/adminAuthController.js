@@ -38,11 +38,12 @@ const register = async (req, res) => {
         password : user.password,
         joinedAt: new Date()
     })
-    
-    res.header('x-auth-token', register_token).send({
-        username: user.username,
-        email: user.email
-    });
+
+    return res.send(`User Registered Successfully...`);
+    // res.header('x-auth-token', register_token).send({
+    //     username: user.username,
+    //     email: user.email
+    // });
 };
 
 const login =  async (req, res) => {
@@ -69,8 +70,9 @@ const login =  async (req, res) => {
     },
     { upsert: true, new: true } 
     )
+    res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 },  { httpOnly: true }); // 1 days in milliseconds
 
-    res.header('x-auth-token', token).send(`Authentication Successful.`);
+    return res.send(`Authentication Successful.`);
 };
 
 
