@@ -7,18 +7,18 @@ const authHandler = require('../middleware/authMiddleware')
 const adminAuthHandler = require('../middleware/adminMiddleware')
 
 // Create user
-router.post('/', authHandler, adminAuthHandler, errorHandler(authContoller.register));
+router.post('/', errorHandler(authContoller.register));
 
 // Find all users
-router.get('/', authHandler, adminAuthHandler, errorHandler(userContoller.getUsers));
+router.get('/', errorHandler(userContoller.getUsers));
 
 // Find all users
-router.get('/:id', authHandler, adminAuthHandler, errorHandler(userContoller.getUser));
+router.get('/:id', errorHandler(userContoller.getUser));
 
 // Update users
-router.put('/:id', authHandler, adminAuthHandler, errorHandler(userContoller.updateUser))
+router.put('/:id', errorHandler(userContoller.updateUser))
 
 // Delete users
-router.delete('/:id', authHandler, adminAuthHandler, errorHandler(userContoller.deleteUser))
+router.delete('/:id', errorHandler(userContoller.deleteUser))
 
 module.exports = router;

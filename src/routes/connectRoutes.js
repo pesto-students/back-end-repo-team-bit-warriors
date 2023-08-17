@@ -6,15 +6,15 @@ const errorHandler = require('../middleware/errorHandlerMiddleware'); // Import 
 const authHandler = require('../middleware/authMiddleware')
 const adminAuthHandler = require('../middleware/adminMiddleware')
 
-router.post('/', authHandler, errorHandler(connectController.createConnect));
+router.post('/', errorHandler(connectController.createConnect));
 
 // Find all contact us post
-router.get('/', authHandler, adminAuthHandler, errorHandler(connectController.getConnects));
+router.get('/', errorHandler(connectController.getConnects));
 
 // Find contact us phase by id
-router.get('/:id', authHandler, adminAuthHandler, errorHandler(connectController.getConnect));
+router.get('/:id', errorHandler(connectController.getConnect));
 
 // Delete by user id
-router.delete('/:id', authHandler, adminAuthHandler, errorHandler(connectController.deleteConnect))
+router.delete('/:id', errorHandler(connectController.deleteConnect))
 
 module.exports = router;

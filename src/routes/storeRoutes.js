@@ -6,18 +6,18 @@ const authHandler = require('../middleware/authMiddleware')
 const adminAuthHandler = require('../middleware/adminMiddleware')
 
 // Get store by mall id as query
-router.get('/', authHandler, errorHandler(storeController.getStores))
+router.get('/', errorHandler(storeController.getStores))
 
 // Create store
-router.post('/', authHandler, adminAuthHandler, errorHandler(storeController.createStore))
+router.post('/', errorHandler(storeController.createStore))
 
 // Get store by id
-router.get('/:id', authHandler, errorHandler(storeController.getStore))
+router.get('/:id', errorHandler(storeController.getStore))
 
 // update mall by id
-router.put('/:id', authHandler, adminAuthHandler, errorHandler(storeController.updateStore));
+router.put('/:id', errorHandler(storeController.updateStore));
 
 // Delete mall by id
-router.delete('/:id', authHandler, adminAuthHandler, errorHandler(storeController.deleteStore));
+router.delete('/:id', errorHandler(storeController.deleteStore));
 
 module.exports = router
