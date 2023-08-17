@@ -29,7 +29,7 @@ const register = async (req, res) => {
 
     await user.save();
 
-    const register_token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '86400s' }); //1 day token validity
+    //const register_token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '86400s' }); //1 day token validity
 
     User.create({
         username : user.username,
@@ -66,7 +66,7 @@ const login =  async (req, res) => {
     { upsert: true, new: true } 
     )
 
-    res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 }); // 1 days in milliseconds
+    res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 },  { httpOnly: true }); // 1 days in milliseconds
 
     return res.send(`Authentication Successful...`);
     
