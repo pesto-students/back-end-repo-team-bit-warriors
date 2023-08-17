@@ -3,8 +3,6 @@ const router = express.Router()
 const userContoller = require('../controller/userController');
 const authContoller = require('../controller/auth/userAuthController');
 const errorHandler = require('../middleware/errorHandlerMiddleware'); // Import the error handling middleware
-const authHandler = require('../middleware/authMiddleware')
-const adminAuthHandler = require('../middleware/adminMiddleware')
 
 // Create user
 router.post('/', errorHandler(authContoller.register));

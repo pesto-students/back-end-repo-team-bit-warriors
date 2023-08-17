@@ -2,8 +2,6 @@ const express = require('express')
 const router = express.Router()
 const mallController = require('../controller/mallController')
 const errorHandler = require('../middleware/errorHandlerMiddleware')
-const authHandler = require('../middleware/authMiddleware')
-const adminAuthHandler = require('../middleware/adminMiddleware')
 
 
 // Get all malls

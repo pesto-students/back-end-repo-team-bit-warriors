@@ -2,8 +2,6 @@ const express = require('express')
 const router = express.Router()
 const storeController = require('../controller/storeController')
 const errorHandler = require('../middleware/errorHandlerMiddleware')
-const authHandler = require('../middleware/authMiddleware')
-const adminAuthHandler = require('../middleware/adminMiddleware')
 
 // Get store by mall id as query
 router.get('/', errorHandler(storeController.getStores))
