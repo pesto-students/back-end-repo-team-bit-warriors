@@ -56,7 +56,7 @@ const login =  async (req, res) => {
     const validatePassword = await bcrypt.compare(req.body.password, user.password);  
     if(!validatePassword) return res.status(400).send('Invalid email or password.');
 
-    const token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '86400s' }); //1 day token validity
+    const token = jwt.sign({_id: user._id}, process.env.jwtPrivatekey, { expiresIn: '86400s' }); //1 day token validity
 
     await User.findOneAndUpdate({email: req.body.email}, {
         $set: {
