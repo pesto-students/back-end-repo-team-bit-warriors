@@ -29,7 +29,7 @@ const register = async (req, res) => {
 
     await user.save();
 
-    const register_token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '600s' });
+    const register_token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '86400s' }); //1 day token validity
 
     User.create({
         username : user.username,
@@ -38,11 +38,7 @@ const register = async (req, res) => {
         joinedAt: new Date()
     })
     
-    res.header('x-auth-token', register_token).send({
-        username: user.username,
-        email: user.email
-    });
-
+    return res.send(`User Registered Successfully...`);
 };
 
 const login =  async (req, res) => {
@@ -60,7 +56,7 @@ const login =  async (req, res) => {
     const validatePassword = await bcrypt.compare(req.body.password, user.password);  
     if(!validatePassword) return res.status(400).send('Invalid email or password.');
 
-    const token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '600s' });
+    const token = jwt.sign({_id: user._id, isAdmin: user.isAdmin}, process.env.jwtPrivatekey, { expiresIn: '86400s' }); //1 day token validity
 
     await User.findOneAndUpdate({email: req.body.email}, {
         $set: {
@@ -70,9 +66,9 @@ const login =  async (req, res) => {
     { upsert: true, new: true } 
     )
 
-    res.cookie('authCookie', token, { maxAge: 2 * 24 * 60 * 60 * 1000 }); // 2 days in milliseconds
+    res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 }); // 1 days in milliseconds
 
-    res.header('x-auth-token', token).send(`Authentication Successful.`);
+    return res.send(`Authentication Successful...`);
     
 };
 
