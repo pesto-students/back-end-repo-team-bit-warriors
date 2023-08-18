@@ -17,10 +17,21 @@ const cookieParser = require('cookie-parser');
 const app = express();
 
 // Use cors middleware
-const corsOptions = {
-    origin: 'https://malldekho.onrender.com',
-    credentials: true
+// const corsOptions = {
+//     origin: ['https://malldekho.onrender.com',],
+//     credentials: true
+// }
+var whitelist = ['https://malldekho.onrender.com', 'https://malldekho-admin.onrender.com']
+var corsOptions = {
+  origin: function (origin, callback) {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true)
+    } else {
+      callback(new Error('Not allowed by CORS'))
+    }
+  }
 }
+
 app.use(cors(corsOptions));
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({extended : false}))
