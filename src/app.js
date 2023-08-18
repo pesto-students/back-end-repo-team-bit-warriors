@@ -17,7 +17,11 @@ const cookieParser = require('cookie-parser');
 const app = express();
 
 // Use cors middleware
-app.use(cors());
+const corsOptions = {
+    origin: 'https://malldekho.onrender.com',
+    credentials: true
+}
+app.use(cors(corsOptions));
 app.use(bodyParser.urlencoded({extended : false}))
 app.use(express.json());
 app.use(cookieParser());
