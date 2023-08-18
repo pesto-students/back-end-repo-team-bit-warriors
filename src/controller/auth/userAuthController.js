@@ -66,9 +66,9 @@ const login =  async (req, res) => {
     { upsert: true, new: true } 
     )
 
-    //res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 }); // 1 days in milliseconds
+    //res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 }); // 1 days in milliseconds 
     res.cookie('authCookie', token, { maxAge: 3600000, httpOnly: true, secure: true, sameSite: 'none', domain: '.onrender.com' });
-    return res.send(`Authentication Successful...`);
+    return res.send({token});
 };
 
 
