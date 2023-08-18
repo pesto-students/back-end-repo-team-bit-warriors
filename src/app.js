@@ -21,17 +21,22 @@ const app = express();
 //     origin: ['https://malldekho.onrender.com',],
 //     credentials: true
 // }
-var whitelist = ['https://malldekho.onrender.com', 'https://malldekho-admin.onrender.com']
-var corsOptions = {
-  origin: function (origin, callback) {
-    if (whitelist.indexOf(origin) !== -1) {
-      callback(null, true)
-    } else {
-      callback(new Error('Not allowed by CORS'))
-    }
-  }
-}
+// var whitelist = ['https://malldekho.onrender.com', 'https://malldekho-admin.onrender.com']
+// var corsOptions = {
+//   origin: function (origin, callback) {
+//     if (whitelist.indexOf(origin) !== -1) {
+//       callback(null, true)
+//     } else {
+//       callback(new Error('Not allowed by CORS'))
+//     }
+//   }
+// }
 
+// Use cors middleware
+const corsOptions = {
+    origin: ['https://malldekho.onrender.com', 'https://malldekho-admin.onrender.com'],
+    credentials: true
+}
 app.use(cors(corsOptions));
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({extended : false}))
