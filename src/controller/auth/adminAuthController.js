@@ -70,7 +70,7 @@ const login =  async (req, res) => {
     },
     { upsert: true, new: true } 
     )
-    res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 },  { httpOnly: true }); // 1 days in milliseconds
+    res.cookie('authCookie', token, { maxAge: 1 * 24 * 60 * 60 * 1000 }); // 1 days in milliseconds
 
     return res.send(`Authentication Successful.`);
 };
